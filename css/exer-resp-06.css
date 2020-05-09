@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+
+img{
+  border: solid 3px #00ff00;
+  width: 25%;
+}
+
+@media screen{
+  body{
+    font-family: 'Consolas',sans-serif;
+    color: #00ff00;
+  }
+}
+
+@media print{
+  body{
+    font-family: 'Times New Roman',serif;
+    color: #000;
+  }
+}

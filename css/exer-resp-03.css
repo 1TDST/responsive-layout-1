@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+
+img{
+  border: solid 3px #00ff00;
+  width: 25%;
+}
+@media (max-width: 600px){
+  body{
+    background-color: #57715d;
+  }
+}
